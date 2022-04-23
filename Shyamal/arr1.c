@@ -15,6 +15,7 @@ int main()
 
     i=2;
     scanf("%f\n",&sal[i]);
+    printf("Helo sumit did this.");
     printf("%f\n",sal[i]);
     printf("%f",sal[i++]);
 }
