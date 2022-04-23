@@ -13,7 +13,7 @@ int main()
    sum=arr[0]+arr[1]+arr[2]+arr[3]+arr[4];
 //printf("%d",sum);
 
-    i=2;
+    i=9;
     scanf("%f\n",&sal[i]);
     printf("%f\n",sal[i]);
     printf("%f",sal[i++]);
