@@ -29,6 +29,6 @@ for(i=0;i<n;i++)
     scanf("%d",arr.a[i]);
   arr.length=n;
 
-display(arr);
+display(red);
   return 0;
 }
