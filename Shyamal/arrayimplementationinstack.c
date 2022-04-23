@@ -14,7 +14,7 @@ int main()
 {
 	while(1)
 	{
-		printf("1.Push\n2.pop\n3.display the top element\n4.display all stack elements\n5.Quit\n\n");
+		printf("1.Push\n2.pop\n3.display the name of Rishi at the top element\n4.display all stack elements\n5.Quit\n\n");
 		printf("Enter your choice:");
 		scanf("%d",&choice);
 		switch(choice)
