@@ -18,7 +18,7 @@ int main()
 {
     int i;
     struct array arr;
-printf("Enter the size of array: ");
+printf("Made by MCUxDaredevil ;)\nEnter the size of array: ");
 scanf("%d",&arr.size);
   int a=(int *)malloc(arr.size * sizeof(int));
 arr.length=0;
