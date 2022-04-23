@@ -4,6 +4,7 @@ struct array{
   int *a;
   int size;
   int length;
+  int i;
 };
 
 void display(struct array arr)
