@@ -27,7 +27,7 @@ arr.length=0;
     printf("Enter all elements: \n");
 for(i=0;i<n;i++)
     scanf("%d",arr.a[i]);
-  arr.length=n;
+  arr.length=n-1;
 
 display(arr);
   return 0;
